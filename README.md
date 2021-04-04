@@ -1,9 +1,9 @@
 # BootCamp Optimization of Water Distribution
 
-## First things first, create a file for environment variables inside the root directory `BootCamp-OWD/README.md`
+## First things first, create a file for environment variables inside the root directory `BootCamp-OWD/.env`
 
 ```
-touch README.md
+touch .env
 ```
 Then enter into the file `BootCamp-OWD/README.md` the server port, the mongodb uri and a secret key for the json web token, with the following structure
 ```
