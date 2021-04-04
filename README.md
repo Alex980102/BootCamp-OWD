@@ -5,7 +5,7 @@
 ```
 touch .env
 ```
-Then enter into the file `BootCamp-OWD/README.md` the server port, the mongodb uri and a secret key for the json web token, with the following structure
+Then enter into the file `BootCamp-OWD/.env` the server port, the mongodb uri and a secret key for the json web token, with the following structure
 ```
 PORT=<ENTER THE PORT>
 DB_CNN=mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]
